@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="primerm02.v07.1\primerm02.v07.1.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="primerm02.v07.1\Program.cs">
+    <Files>
+      <File FileName="Work.Csharp\Program.cs" Line="17" Column="4" />
+      <File FileName="primerm02.v07.1\Program.cs" Line="25" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

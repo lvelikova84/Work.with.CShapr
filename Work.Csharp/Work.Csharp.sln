@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Work.Csharp", "Work.Csharp\Work.Csharp.csproj", "{8B161DFF-D194-4566-87B7-1DD21DBD0FD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "primerm02.v07.1", "primerm02.v07.1\primerm02.v07.1.csproj", "{C6DC5AEE-45A5-46F4-B787-5B5DBFDB46A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B161DFF-D194-4566-87B7-1DD21DBD0FD6}.Debug|x86.ActiveCfg = Debug|x86
+		{8B161DFF-D194-4566-87B7-1DD21DBD0FD6}.Debug|x86.Build.0 = Debug|x86
+		{8B161DFF-D194-4566-87B7-1DD21DBD0FD6}.Release|x86.ActiveCfg = Release|x86
+		{8B161DFF-D194-4566-87B7-1DD21DBD0FD6}.Release|x86.Build.0 = Release|x86
+		{C6DC5AEE-45A5-46F4-B787-5B5DBFDB46A8}.Debug|x86.ActiveCfg = Debug|x86
+		{C6DC5AEE-45A5-46F4-B787-5B5DBFDB46A8}.Debug|x86.Build.0 = Debug|x86
+		{C6DC5AEE-45A5-46F4-B787-5B5DBFDB46A8}.Release|x86.ActiveCfg = Release|x86
+		{C6DC5AEE-45A5-46F4-B787-5B5DBFDB46A8}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
