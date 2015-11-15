@@ -5,12 +5,18 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Work.Csharp", "Work.Csharp\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "primerm02.v07.1", "primerm02.v07.1\primerm02.v07.1.csproj", "{C6DC5AEE-45A5-46F4-B787-5B5DBFDB46A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Work.with.double", "Work.with.double\Work.with.double.csproj", "{6CFD88AE-B802-4E8D-BB88-371A89DE12D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CFD88AE-B802-4E8D-BB88-371A89DE12D7}.Debug|x86.ActiveCfg = Debug|x86
+		{6CFD88AE-B802-4E8D-BB88-371A89DE12D7}.Debug|x86.Build.0 = Debug|x86
+		{6CFD88AE-B802-4E8D-BB88-371A89DE12D7}.Release|x86.ActiveCfg = Release|x86
+		{6CFD88AE-B802-4E8D-BB88-371A89DE12D7}.Release|x86.Build.0 = Release|x86
 		{8B161DFF-D194-4566-87B7-1DD21DBD0FD6}.Debug|x86.ActiveCfg = Debug|x86
 		{8B161DFF-D194-4566-87B7-1DD21DBD0FD6}.Debug|x86.Build.0 = Debug|x86
 		{8B161DFF-D194-4566-87B7-1DD21DBD0FD6}.Release|x86.ActiveCfg = Release|x86

@@ -1,0 +1,4 @@
+C:\work.with.csharp\work.with.csharp\Work.Csharp\primerm02.v07.1\bin\Debug\primerm02.v07.1.exe
+C:\work.with.csharp\work.with.csharp\Work.Csharp\primerm02.v07.1\bin\Debug\primerm02.v07.1.pdb
+C:\work.with.csharp\work.with.csharp\Work.Csharp\primerm02.v07.1\obj\x86\Debug\primerm02.v07.1.exe
+C:\work.with.csharp\work.with.csharp\Work.Csharp\primerm02.v07.1\obj\x86\Debug\primerm02.v07.1.pdb
