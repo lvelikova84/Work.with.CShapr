@@ -1,9 +1,11 @@
-﻿<Properties StartupItem="Work.with.double\Work.with.double.csproj">
+﻿<Properties StartupItem="mathoper\mathoper.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="primerm02.v07.1\Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Math.operations\Program.cs">
     <Files>
-      <File FileName="Work.Csharp\Program.cs" Line="17" Column="4" />
+      <File FileName="Work.Csharp\Program.cs" Line="1" Column="1" />
       <File FileName="primerm02.v07.1\Program.cs" Line="25" Column="1" />
+      <File FileName="Work.with.double\Program.cs" Line="16" Column="1" />
+      <File FileName="Math.operations\Program.cs" Line="5" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

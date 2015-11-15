@@ -2,3 +2,4 @@ C:\work.with.csharp\Work.Csharp\Work.Csharp\bin\Debug\Work.Csharp.exe
 C:\work.with.csharp\Work.Csharp\Work.Csharp\bin\Debug\Work.Csharp.pdb
 C:\work.with.csharp\Work.Csharp\Work.Csharp\obj\x86\Debug\Work.Csharp.exe
 C:\work.with.csharp\Work.Csharp\Work.Csharp\obj\x86\Debug\Work.Csharp.pdb
+C:\work.with.csharp\work.with.csharp\Work.Csharp\Work.Csharp\obj\x86\Debug\Work.Csharp.exe
