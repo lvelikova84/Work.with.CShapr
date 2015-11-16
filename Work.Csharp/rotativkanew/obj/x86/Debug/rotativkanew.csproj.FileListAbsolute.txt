@@ -1,0 +1,4 @@
+C:\work.with.csharp\work.with.csharp\Work.Csharp\rotativkanew\bin\Debug\rotativkanew.exe
+C:\work.with.csharp\work.with.csharp\Work.Csharp\rotativkanew\bin\Debug\rotativkanew.pdb
+C:\work.with.csharp\work.with.csharp\Work.Csharp\rotativkanew\obj\x86\Debug\rotativkanew.exe
+C:\work.with.csharp\work.with.csharp\Work.Csharp\rotativkanew\obj\x86\Debug\rotativkanew.pdb

@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maimuniibanani", "maimuniib
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rotativkanew", "rotativkanew\rotativkanew.csproj", "{C71569B4-2E0D-4F02-88B9-021C45598302}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "primeribool2", "primeribool2\primeribool2.csproj", "{C68920E5-CCF5-4B29-A6F7-87794FAD6681}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -37,6 +39,10 @@ Global
 		{AEF626E6-4D0D-4D8A-B2A9-CB83B2EA5BB4}.Debug|x86.Build.0 = Debug|x86
 		{AEF626E6-4D0D-4D8A-B2A9-CB83B2EA5BB4}.Release|x86.ActiveCfg = Release|x86
 		{AEF626E6-4D0D-4D8A-B2A9-CB83B2EA5BB4}.Release|x86.Build.0 = Release|x86
+		{C68920E5-CCF5-4B29-A6F7-87794FAD6681}.Debug|x86.ActiveCfg = Debug|x86
+		{C68920E5-CCF5-4B29-A6F7-87794FAD6681}.Debug|x86.Build.0 = Debug|x86
+		{C68920E5-CCF5-4B29-A6F7-87794FAD6681}.Release|x86.ActiveCfg = Release|x86
+		{C68920E5-CCF5-4B29-A6F7-87794FAD6681}.Release|x86.Build.0 = Release|x86
 		{C6DC5AEE-45A5-46F4-B787-5B5DBFDB46A8}.Debug|x86.ActiveCfg = Debug|x86
 		{C6DC5AEE-45A5-46F4-B787-5B5DBFDB46A8}.Debug|x86.Build.0 = Debug|x86
 		{C6DC5AEE-45A5-46F4-B787-5B5DBFDB46A8}.Release|x86.ActiveCfg = Release|x86
